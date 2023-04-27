@@ -16,7 +16,7 @@ Dependencies required are the follow:
 
 Please copy below text and add to PUBSEC.YAML file and either run flutter pub get or click pub get button to download dependencies. Minor chnages in code may be required to run.
 
-<*******************************************************************************************************************************************>
+<**********************************************************************************************************************************>
 
 name: assignment_planner
 
