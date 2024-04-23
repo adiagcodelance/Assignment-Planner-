@@ -1,4 +1,7 @@
 # Assignment-Planner-
+
+https://www.youtube.com/watch?v=V10u0TxmSWk
+
 Assignment Planner App using FLUTTER/DART
 The following project was developed by a team as a project for CS 3130 at UPEI, therefore credit for works within repository are shared. The project was a 2 month build with 7 days spent on front end design and the project uses Flutter, Dart, Firebase by Google and other dependencies by Flutter.
 
